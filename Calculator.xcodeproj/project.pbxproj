@@ -14,6 +14,7 @@
 		74D9D5E52C0D73C40094626F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74D9D5E42C0D73C40094626F /* Assets.xcassets */; };
 		74D9D5E82C0D73C40094626F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 74D9D5E72C0D73C40094626F /* Base */; };
 		A246F1EA2C0DA4FA00CCD36C /* psh.swift in Sources */ = {isa = PBXBuildFile; fileRef = A246F1E92C0DA4FA00CCD36C /* psh.swift */; };
+		E526297A2C0DA7CE00475079 /* HJViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52629792C0DA7CE00475079 /* HJViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		74D9D5E72C0D73C40094626F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74D9D5E92C0D73C40094626F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A246F1E92C0DA4FA00CCD36C /* psh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = psh.swift; sourceTree = "<group>"; };
+		E52629792C0DA7CE00475079 /* HJViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HJViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				74D9D5E62C0D73C40094626F /* LaunchScreen.storyboard */,
 				74D9D5E92C0D73C40094626F /* Info.plist */,
 				A246F1E92C0DA4FA00CCD36C /* psh.swift */,
+				E52629792C0DA7CE00475079 /* HJViewController.swift */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74D9D5E02C0D73C30094626F /* ViewController.swift in Sources */,
+				E526297A2C0DA7CE00475079 /* HJViewController.swift in Sources */,
 				74D9D5DC2C0D73C30094626F /* AppDelegate.swift in Sources */,
 				74D9D5DE2C0D73C30094626F /* SceneDelegate.swift in Sources */,
 				A246F1EA2C0DA4FA00CCD36C /* psh.swift in Sources */,
