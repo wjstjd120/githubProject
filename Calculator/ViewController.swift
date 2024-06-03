@@ -14,7 +14,5 @@ class ViewController: UIViewController {
         //아아아아아
         print("Hello KDH")
     }
-
-
 }
 
