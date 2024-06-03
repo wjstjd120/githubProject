@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         //아아아아아
         print("Hello KDH")
+        // 김동현 추가
     }
 }
 
